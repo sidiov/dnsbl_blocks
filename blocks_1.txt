@@ -8,3 +8,4 @@
 127.0.0.1 api.redshell.io
 127.0.0.1 application-api.redshell.io
 127.0.0.1 in.treasuredata.com
+127.0.0.1 laguardianadelatorre.com
