@@ -1,5 +1,10 @@
-h1n.ru
-*.h1n.ru
-api.redshell.io
-application-api.redshell.io
-in.treasuredata.com
+#Blocks_1 blocklist
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 h1n.ru
+127.0.0.1 www.happy-press.h1n.ru
+127.0.0.1 api.redshell.io
+127.0.0.1 application-api.redshell.io
+127.0.0.1 in.treasuredata.com
