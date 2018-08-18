@@ -1,3 +1,4 @@
+h1n.ru
 *.h1n.ru
 api.redshell.io
 application-api.redshell.io
