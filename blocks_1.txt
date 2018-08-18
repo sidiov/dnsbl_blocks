@@ -1,11 +1,8 @@
 #Blocks_1 blocklist
 
-127.0.0.1  localhost
-::1  localhost
-
-127.0.0.1 h1n.ru
-127.0.0.1 www.happy-press.h1n.ru
-127.0.0.1 api.redshell.io
-127.0.0.1 application-api.redshell.io
-127.0.0.1 in.treasuredata.com
-127.0.0.1 laguardianadelatorre.com
+api.redshell.io
+application-api.redshell.io
+h1n.ru
+in.treasuredata.com
+laguardianadelatorre.com
+www.happy-press.h1n.ru
